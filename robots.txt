@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qtstone.github.io/home/sitemap.xml
+Sitemap: https://qtstone.github.io/sitemap.xml
